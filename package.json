@@ -1,0 +1,15 @@
+{
+  "name": "findindex_polyfill_mdn",
+  "version": "1.0.0",
+  "description": "Array.prototype.findIndex polyfill from MDN website",
+  "main": "findIndex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "findIndex",
+    "polyfill"
+  ],
+  "author": "Ilya Muromets <Azureguardian69@gmail.com>",
+  "license": "ISC"
+}
